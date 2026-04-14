@@ -232,8 +232,6 @@ This approach ensures:
 
 ## 📚 Learning Outcomes
 
-Through this project, you will learn:
-
 * Machine Learning workflow
 * Data preprocessing techniques
 * Feature engineering
