@@ -245,5 +245,5 @@ This approach ensures:
 
 This project showcases how AI can transform traditional maintenance into **smart predictive systems**, making industries more efficient, safe, and cost-effective.
 
-##Author##
+##Author
 Koduru Manisha
